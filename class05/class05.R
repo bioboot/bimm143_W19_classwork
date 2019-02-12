@@ -1,8 +1,8 @@
 #' ---
-#' title: "Crop Analysis Q3 2013"
-#' author: "John Smith"
+#' title: "Class 5 Introduction to R graphics"
+#' author: "Barry Grant"
 #' date: "May 3rd, 2014"
-#' output: pdf_document
+#' output: github_document
 #' ---
 
 #' Class 05 R graphics intro
