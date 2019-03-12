@@ -6,3 +6,5 @@ This is a store of my class-work for [BIMM143 Winter 2019](https://bioboot.githu
 - Class04 [Introduduction to R]()
 - Class05 [R Graphics](https://github.com/bioboot/bimm143_W19_classwork/blob/master/class05/class05.md)
 - Class06 R Functions
+- Class09 [Brest cancer machine learning analysis](https://github.com/bioboot/bimm143_W19_classwork/blob/master/class09/class09.md)
+- Class10 
