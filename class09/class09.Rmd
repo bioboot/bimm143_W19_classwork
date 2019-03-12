@@ -2,7 +2,7 @@
 title: "Class 9 Brest cancer analysis with PCA and clustering"
 author: "Barry Grant"
 date: "2/7/2019"
-output: html_document
+output: github_document
 ---
 
 ```{r setup, include=FALSE}
